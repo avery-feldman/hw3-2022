@@ -37,7 +37,7 @@ img{
 
 div{
         padding: 20px;
-        min-height: 175px;
+        min-height: 125px;
         border: 3px solid #fff;
 
 }
@@ -53,7 +53,6 @@ div{
 .red{ 
         background-color: #ff0000;
         text-align: right;
-        min-height: 175px;
         margin-left: 50px;
         border: inherit;
         border-bottom: 2px solid #fff;
@@ -64,7 +63,6 @@ div{
 div.blue{
         background-color: #0000ff;
         text-align: left;
-        min-height: 175px;
         margin-right: 50px;
         border: inherit;
         border-right: 5px solid #fff;
@@ -81,7 +79,6 @@ div.blue{
 div.yellow{
         background-color:#ffff00;
         text-align: right;
-        min-height: 175px;
         margin-left: 50px;
         border: inherit;
         border-bottom: 2px solid #fff;
@@ -97,7 +94,6 @@ div.yellow{
 div.green{
         background-color: #008500;
         text-align: left;
-        min-height: 175px;
         margin-right: 50px;
         border: inherit;
         border-right: 5px solid #fff;
